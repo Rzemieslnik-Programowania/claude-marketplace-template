@@ -1,0 +1,9 @@
+{
+    "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+    "name": "__MARKETPLACE_NAME__",
+    "description": "__MARKETPLACE_DESCRIPTION__",
+    "owner": {
+        "name": "__AUTHOR_NAME__"
+    },
+    "plugins": []
+}
