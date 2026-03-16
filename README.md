@@ -55,9 +55,17 @@ After installing, run `/plugin` in Claude Code to install plugins located in thi
 
 ## Adding a New Plugin
 
+First, ensure the script is executable:
+
+```bash
+chmod +x create-plugin.sh
+```
+
+Then run it:
+
 ```bash
 ./create-plugin.sh my-plugin "Short description of the plugin"
 ```
 
 This scaffolds the full directory structure, boilerplate files, and registers the plugin in `marketplace.json`. After running it, update this `README.md` with the new plugin in the "Available Plugins" table.
-# claude-marketplace-template
+
