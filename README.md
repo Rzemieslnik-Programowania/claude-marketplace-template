@@ -2,10 +2,10 @@
 >
 > 1. Click "Use this template" on GitHub (or clone this repo)
 > 2. Make init stcript executable in terminal. Run `chmod +x init-marketplace.sh`
-> 2. Run `./init-marketplace.sh`
-> 3. Follow the prompts to configure your marketplace
-> 4. The script configures all files and removes itself
-> 5. Start adding plugins with `./create-plugin.sh`
+> 3. Run `./init-marketplace.sh`
+> 4. Follow the prompts to configure your marketplace
+> 5. The script configures all files and removes itself
+> 6. Start adding plugins with `./create-plugin.sh`
 
 ---
 
